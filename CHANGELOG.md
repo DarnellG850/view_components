@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.0.117
+
+### Patch Changes
+
+- [#1713](https://github.com/primer/view_components/pull/1713) [`9b535d89`](https://github.com/primer/view_components/commit/9b535d89962a2cac4fc50d3a43119db3ccad8041) Thanks [@joelhawksley](https://github.com/joelhawksley)! - Use new Slots API in previews.
+
 ## 0.0.116
 
 ### Patch Changes
